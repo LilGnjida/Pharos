@@ -1,0 +1,167 @@
+.row{
+    width: 100%;
+    height: 550px;
+    background-image: url(../img/row.png);
+    color: white;
+    position: relative;
+}
+.broj1{
+    font-size: 100px;
+    font-weight: 700;
+    color: rgb(219, 109, 6);
+    position: absolute;
+    left: 180px;
+}
+.box1{
+    width: 900px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+    top: 140px;
+}
+.row h1{
+    font-size: 70px;
+    line-height: 37px;
+}
+.row span{
+    color:rgb(219, 109, 6) ;
+    font-size: 40px;
+    font-weight: 300;
+    font-style: italic;
+}
+.row h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 6px;
+    color:rgb(219, 109, 6) ;
+    margin-top: 5px;
+    font-weight: 700;
+}
+.box1 p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.row2{
+    width: 100%;
+    height: 650px;
+    background-image: linear-gradient(rgb(27, 27, 27),#313131,rgb(27, 27, 27));
+    color: white;
+    position: relative;
+}
+.box2{
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    left: 800px;
+    top: 250px;
+}
+.box2 h1{
+    font-size: 70px;
+    line-height: 37px;
+
+}
+.box2 h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 6px;
+    color:rgb(219, 109, 6) ;
+    margin-top: 20px;
+    font-weight: 700;
+}
+.box2 p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.broj2{
+    font-size: 100px;
+    font-weight: 700;
+    color: rgb(219, 109, 6);
+    position: absolute;
+    left: 650px;
+    top:100px;
+}
+.left{
+    width: 500px;
+    height:650px;
+    position: relative;
+}
+.row2 img{
+    width: 500px;
+    position: absolute;
+    top: 100px;
+    left: 70px;
+}
+.button{
+    position: absolute;
+    top: 470px;
+    left: 200px;
+    text-decoration: none;
+    color: white;
+    border: 2px solid #202020;
+    border-radius: 40px;
+    background-color: #202020;
+    padding: 20px 30px;
+    font-size: 30px;
+    position: relative;
+    cursor: pointer;
+}
+.button:hover{
+    border: 2px solid black;
+    border-radius: 40px;
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+.row3{
+    width: 100%;
+    height: 550px;
+    background-image: url(../img/row.png);
+    color: white;
+    position: relative;
+}
+.broj3{
+    font-size: 100px;
+    font-weight: 700;
+    color: rgb(219, 109, 6);
+    position: absolute;
+    left: 180px;
+}
+.box3{
+    width: 930px;
+    height: 300px;
+    position: absolute;
+    left: 320px;
+    top: 140px;
+}
+.row3 h1{
+    font-size: 70px;
+    line-height: 37px;
+}
+.row3 h2{
+    text-transform: uppercase;
+    font-size: 30px;
+    letter-spacing: 6px;
+    color:rgb(219, 109, 6) ;
+    margin-top: 5px;
+    font-weight: 700;
+}
+.box3 p{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 30px;
+}
+footer{
+    width: 100%;
+    height:220px;
+    background-color: #202020;
+    text-align: center;
+}
+footer p{
+    color: white;
+    margin: 10px;
+}
+footer img{
+    margin: 20px 0px 0px 780px;
+}
